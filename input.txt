@@ -1,0 +1,8 @@
+This is a sample text for counting purposes.
+It contains multiple lines, words, and various characters.
+12345 and 67890 are some numbers.
+Special characters like !@#$%^&*() are also present.
+Operators such as +, -, *, and / are used.
+Relational operators like <, >, <=, and >= are included.
+The total character count includes spaces and punctuation marks.
+
